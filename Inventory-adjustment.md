@@ -1,4 +1,5 @@
 Inventory Counting / Adjustment Issues
+
 ❌ Issue
     -> Physical inventory counts not matching BC
     -> Adjustments not posting correctly
@@ -9,6 +10,7 @@ Inventory Counting / Adjustment Issues
     -> Items with serial / lot tracking not properly assigned
 
 ✅ How to Fix
+
   -> Verify Item Ledger Entries
   -> Process Count Sheet fully
   -> Confirm Location / Bin setup
